@@ -1,0 +1,6 @@
+[submodule "COVID19_Moral_Injury"]
+	path = COVID19_Moral_Injury
+	url = https://github.com/jeneyring/COVID19_Moral_Injury
+[submodule "GSS_Survey"]
+	path = GSS_Survey
+	url = https://github.com/jeneyring/GSS_survey
