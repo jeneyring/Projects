@@ -7,3 +7,6 @@
 [submodule "GSS_survey"]
 	path = GSS_survey
 	url = https://github.com/jeneyring/GSS_survey
+[submodule "Clustering-Final-Project"]
+	path = Clustering-Final-Project
+	url = https://github.com/jeneyring/Clustering-Final-Project
